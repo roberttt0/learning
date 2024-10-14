@@ -1,0 +1,1 @@
+// adaug java script
